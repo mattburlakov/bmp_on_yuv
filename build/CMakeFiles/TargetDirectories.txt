@@ -1,0 +1,3 @@
+C:/projects_master/PORTFOLIO ASAP/elecard/build/CMakeFiles/EXECUTE.dir
+C:/projects_master/PORTFOLIO ASAP/elecard/build/CMakeFiles/ALL_BUILD.dir
+C:/projects_master/PORTFOLIO ASAP/elecard/build/CMakeFiles/ZERO_CHECK.dir

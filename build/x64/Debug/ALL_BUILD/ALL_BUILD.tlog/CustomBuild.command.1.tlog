@@ -1,0 +1,10 @@
+^C:\PROJECTS_MASTER\PORTFOLIO ASAP\ELECARD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/projects_master/PORTFOLIO ASAP/elecard" "-BC:/projects_master/PORTFOLIO ASAP/elecard/build" --check-stamp-file "C:/projects_master/PORTFOLIO ASAP/elecard/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
