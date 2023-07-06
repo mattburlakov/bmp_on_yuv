@@ -1,6 +1,6 @@
-^C:\PROJECTS_MASTER\PORTFOLIO ASAP\ELECARD\BUILD\CMAKEFILES\36B7AE88B8496D6E978385486DC84B97\GENERATE.STAMP.RULE
+^C:\PROJECTS_MASTER\PORTFOLIO ASAP\ELECARD\BMP_ON_YUV\BUILD\CMAKEFILES\6365B09B14135933F6CC906B7587CEFD\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/projects_master/PORTFOLIO ASAP/elecard" "-BC:/projects_master/PORTFOLIO ASAP/elecard/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/projects_master/PORTFOLIO ASAP/elecard/build/EXECUTE.sln"
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/projects_master/PORTFOLIO ASAP/elecard/bmp_on_yuv" "-BC:/projects_master/PORTFOLIO ASAP/elecard/bmp_on_yuv/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/projects_master/PORTFOLIO ASAP/elecard/bmp_on_yuv/build/EXECUTE.sln"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

@@ -3,7 +3,6 @@
 
 #include <iostream>
 #include <fstream>
-#include <thread>
 
 //works only with width and height divisible by 2
 

@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\projects_master\PORTFOLIO ASAP\elecard\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\projects_master\PORTFOLIO ASAP\elecard\bmp_on_yuv\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\projects_master\PORTFOLIO ASAP\elecard\build\Debug\EXECUTE.exe</FullPath>
+      <FullPath>C:\projects_master\PORTFOLIO ASAP\elecard\bmp_on_yuv\build\Debug\EXECUTE.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\projects_master\PORTFOLIO ASAP\elecard\build\x64\Debug\ALL_BUILD</FullPath>
+      <FullPath>C:\projects_master\PORTFOLIO ASAP\elecard\bmp_on_yuv\build\x64\Debug\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\projects_master\PORTFOLIO ASAP\elecard\build\CMakeFiles\36b7ae88b8496d6e978385486dc84b97\generate.stamp.rule">
+    <CustomBuild Include="C:\projects_master\PORTFOLIO ASAP\elecard\bmp_on_yuv\build\CMakeFiles\6365b09b14135933f6cc906b7587cefd\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{3B974F50-FC67-3227-AA6F-C0714BE7E2C2}</UniqueIdentifier>
+      <UniqueIdentifier>{E4E715B7-A25B-3462-B794-A4AF8AFD3CD4}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

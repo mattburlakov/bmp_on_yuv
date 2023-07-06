@@ -1,6 +1,6 @@
-^C:\PROJECTS_MASTER\PORTFOLIO ASAP\ELECARD\CMAKELISTS.TXT
+^C:\PROJECTS_MASTER\PORTFOLIO ASAP\ELECARD\BMP_ON_YUV\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/projects_master/PORTFOLIO ASAP/elecard" "-BC:/projects_master/PORTFOLIO ASAP/elecard/build" --check-stamp-file "C:/projects_master/PORTFOLIO ASAP/elecard/build/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/projects_master/PORTFOLIO ASAP/elecard/bmp_on_yuv" "-BC:/projects_master/PORTFOLIO ASAP/elecard/bmp_on_yuv/build" --check-stamp-file "C:/projects_master/PORTFOLIO ASAP/elecard/bmp_on_yuv/build/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

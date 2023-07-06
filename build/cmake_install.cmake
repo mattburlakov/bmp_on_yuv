@@ -1,4 +1,4 @@
-# Install script for directory: C:/projects_master/PORTFOLIO ASAP/elecard
+# Install script for directory: C:/projects_master/PORTFOLIO ASAP/elecard/bmp_on_yuv
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/projects_master/PORTFOLIO ASAP/elecard/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/projects_master/PORTFOLIO ASAP/elecard/bmp_on_yuv/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
